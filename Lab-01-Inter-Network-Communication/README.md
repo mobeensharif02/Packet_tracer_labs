@@ -21,11 +21,3 @@ The objective of this lab was to enable communication between devices located on
 - Routers enable communication between networks
 - Proper IP addressing is essential
 
-## Network Topology
-![Network Topology](Network topology.png)
-
-## Router Configuration
-![Router Configuration](Router config.png)
-
-## Connectivity Verification
-![Ping Test](Ping test lab1.png)
