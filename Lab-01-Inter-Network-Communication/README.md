@@ -21,3 +21,6 @@ The objective of this lab was to enable communication between devices located on
 - Routers enable communication between networks
 - Proper IP addressing is essential
 
+## Packet Tracer File
+The complete Packet Tracer lab file is included in this repository and can be opened
+using Cisco Packet Tracer for full configuration review.
