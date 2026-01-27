@@ -32,6 +32,16 @@ Devices within the same VLAN can communicate with each other.
 Devices in different VLANs are isolated, which is expected behavior
 without inter-VLAN routing.
 
+## Network Topology
+![Topology](Network-topology.png)
+
+## VLAN Verification
+![VLAN Brief](Switch-CLI.png)
+
+## Ping test
+![Ping](Connectivity.png)
+
+
 ## What I Learned
 - VLANs logically separate networks at Layer 2
 - Proper port assignment is critical
