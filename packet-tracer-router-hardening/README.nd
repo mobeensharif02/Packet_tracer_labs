@@ -1,1 +1,21 @@
+Wireless Router Hardening – Cisco Packet Tracer
+
+This project demonstrates how I secured a home wireless router using Cisco Packet Tracer.
+
+I hardened the router by changing default credentials, disabling remote management, configuring WPA2-AES encryption, separating Home and Guest networks, and verifying security through connectivity testing.
+
+Tools used:
+- Cisco Packet Tracer
+- WPA2-Personal (AES)
+- DHCP
+- ICMP (Ping)
+
+Key tasks:
+- Secured wireless networks using WPA2 and AES
+- Configured HomeNet and GuestNet
+- Connected laptops securely
+- Verified internet access
+- Enforced guest isolation
+
+This project helped me understand real-world wireless security best practices.
 
